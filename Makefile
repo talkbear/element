@@ -36,11 +36,11 @@ test:
 	npm run test:watch
 
 help:
-	@echo "   \033[35mmake\033[0m \033[1må‘½ä»¤ä½¿ç”¨è¯´æ˜\033[0m"
-	@echo "   \033[35mmake install\033[0m\t\033[0m\t\033[0m\t\033[0m\t---  å®‰è£…ä¾èµ–"
-	@echo "   \033[35mmake new <component-name> [ä¸­æ–‡å]\033[0m\t---  åˆ›å»ºæ–°ç»„ä»¶ package. ä¾‹å¦‚ 'make new button æŒ‰é’®'"
-	@echo "   \033[35mmake dev\033[0m\t\033[0m\t\033[0m\t\033[0m\t---  å¼€å‘æ¨¡å¼"
-	@echo "   \033[35mmake dist\033[0m\t\033[0m\t\033[0m\t\033[0m\t---  ç¼–è¯‘é¡¹ç›®ï¼Œç”Ÿæˆç›®æ ‡æ–‡ä»¶"
-	@echo "   \033[35mmake deploy\033[0m\t\033[0m\t\033[0m\t\033[0m\t---  éƒ¨ç½² demo"
-	@echo "   \033[35mmake pub\033[0m\t\033[0m\t\033[0m\t\033[0m\t---  å‘å¸ƒåˆ° npm ä¸Š"
-	@echo "   \033[35mmake new-lang <lang>\033[0m\t\033[0m\t\033[0m\t---  ä¸ºç½‘ç«™æ·»åŠ æ–°è¯­è¨€. ä¾‹å¦‚ 'make new-lang fr'"
+	@echo "   \033[35mmake\033[0m \033[1mÃüÁîÊ¹ÓÃËµÃ÷\033[0m"
+	@echo "   \033[35mmake install\033[0m\t\033[0m\t\033[0m\t\033[0m\t---  °²×°ÒÀÀµ"
+	@echo "   \033[35mmake new <component-name> [ÖĞÎÄÃû]\033[0m\t---  ´´½¨ĞÂ×é¼ş package. ÀıÈç 'make new button °´Å¥'"
+	@echo "   \033[35mmake dev\033[0m\t\033[0m\t\033[0m\t\033[0m\t---  ¿ª·¢Ä£Ê½"
+	@echo "   \033[35mmake dist\033[0m\t\033[0m\t\033[0m\t\033[0m\t---  ±àÒëÏîÄ¿£¬Éú³ÉÄ¿±êÎÄ¼ş"
+	@echo "   \033[35mmake deploy\033[0m\t\033[0m\t\033[0m\t\033[0m\t---  ²¿Êğ demo"
+	@echo "   \033[35mmake pub\033[0m\t\033[0m\t\033[0m\t\033[0m\t---  ·¢²¼µ½ npm ÉÏ"
+	@echo "   \033[35mmake new-lang <lang>\033[0m\t\033[0m\t\033[0m\t---  ÎªÍøÕ¾Ìí¼ÓĞÂÓïÑÔ. ÀıÈç 'make new-lang fr'"
